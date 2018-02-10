@@ -28,7 +28,7 @@ void checkWinner(int p, int y){
 	// Write condition for cout in this function
 	cout << "\n---------------------------------\n";
 	cout <<   "|             Draw!!!           |"; // when p is equal to y
-	cout <<   "|          Player wins!!        |"; // when p is greater than y
+	cout <<   "|         Player wins!!!        |"; // when p is greater than y
 	cout <<   "|          Yugi wins!!!         |"; // when p is less than y
 	cout << "\n---------------------------------\n";
 }
