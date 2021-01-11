@@ -46,7 +46,7 @@ int main(){
 	do{
 		cout << "(1) Destiny draw (2) Stay, SELECT: ";
 		cin >> playerAction;
-	}while(playerAction != 1 && playerAction != 2);
+	}while(True); //This line of code is not completed. You need to set the condition to do loop if user's input is not 1 or 2. 
 	if(playerAction == 1){
 		//The following lines of code are not completed. Please correct it.
 		/*
